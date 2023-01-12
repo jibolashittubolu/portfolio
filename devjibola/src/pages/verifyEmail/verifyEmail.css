@@ -1,0 +1,48 @@
+.verify-email{
+    background-color: orange;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.verify-container{
+    width: 50%;
+    height: 50%;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+details{
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    width: 90%;
+    /* all: unset; */
+    /* margin: 5rem; */
+}
+
+form{
+    /* display: flex; */
+    text-align: center;
+}
+
+summary{
+    cursor: pointer;
+}
+
+.renter-input{
+    width: 90%;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
