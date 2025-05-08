@@ -7,8 +7,6 @@ import Portfolio from './Scripts/Portfolio/Portfolio'
 import Enyata_video from './Scripts/Portfolio/assets/video/Enyata_video.mp4'
 import resume_file from './Scripts/Portfolio/assets/jibolashittubolu@gmail.com.pdf'
 
-
-
 const VideoApp = () => {
   return (
     <div 
